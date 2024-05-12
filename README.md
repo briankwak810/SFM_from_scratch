@@ -1,4 +1,4 @@
-### Prerequisites:
+# Prerequisites:
 
 Import random in pnp.py
 
@@ -6,7 +6,7 @@ import random/sklearn.neighbors in feature.py
 
 Look at 'requirements.txt' for more requirements.
 
-### Algorithm:
+# Algorithm:
 
 All the coordinates are normalized with the intrinsic parameter.
 
