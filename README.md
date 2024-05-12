@@ -47,11 +47,14 @@ However, I was able to capture outputs without outliers, and they show very good
 The camera calibration was calculated with filming checkerboard with the same camera in different angles. The code is shown at calibration.ipynb.
 
 The camera matrix is:
-$$\begin{bmatrix}
-717.542 & 0 $ 371.445 \\
+
+$$
+\begin{bmatrix}
+717.542 & 0 & 371.445 \\
 0 & 714.882 & 501.326 \\
 0 & 0 & 1
-\end{bmatrix}$$
+\end{bmatrix}
+$$
 
 By using the camera matrix, I was able to reconstruct two kinds of images, a tissue box with a hand and a tissue box in front of a bookcase. The first image set is in myimage_1 and the second image se t is in myimage_2 folder.
 
