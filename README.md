@@ -30,8 +30,6 @@ The results from the front and top are as follows. (For 14th output)
 
 ![Screenshot from 2024-05-10 23-55-46](https://github.com/briankwak810/SFM_from_scratch/assets/119718552/fad08ea9-9909-46a6-8437-8be07cc6c6e0)
 
-![Screenshot from 2024-05-10 23-51-46](https://github.com/briankwak810/SFM_from_scratch/assets/119718552/e18ff85e-642f-4248-97db-89c6f26600cf)
-
 And the camera results are as follows. (For total 14 cameras)
 
 ![Screenshot from 2024-05-10 23-56-10](https://github.com/briankwak810/SFM_from_scratch/assets/119718552/fb8dd5a4-3146-4584-882a-d931ea659be5)
